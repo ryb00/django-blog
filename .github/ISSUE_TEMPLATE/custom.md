@@ -1,12 +1,13 @@
 ---
 name: Custom issue template
-about: DesAs a **role** I can **capability** so that **received benefit**cribe this
-  issue template's purpose here.
+about: Custom issue template
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+DesAs a **role** I can **capability** so that **received benefit**cribe this issue template's purpose here.
 
 - Acceptance criteria 1
 
